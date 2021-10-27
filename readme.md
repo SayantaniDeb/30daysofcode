@@ -12,3 +12,5 @@ string concatenation (using + between two different strings)
 string interpolation (using `` instead of " and ${var name} to concatenate) 
 typeof operator: to know the datatype of the value inside the var
 
+
+
