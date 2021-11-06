@@ -73,3 +73,24 @@ In the example above:
 4. else if statements
 - The else if statements allow you to have multiple possible outcomes. 
 - if/else if/else statements are read from top to bottom, so the first condition that evaluates to true from the top to bottom is the block that gets executed.
+
+## DAY 13
+- switch statements
+![image](https://user-images.githubusercontent.com/74983536/140621702-20d4564b-7173-4d6e-a00f-7523ea0990ad.png)
+- The switch keyword initiates the statement and is followed by ( ... ), which contains the value that each case will compare. In the example, the value or expression of the switch statement is groceryItem.
+- Inside the block, { ... }, there are multiple cases. The case keyword checks if the expression matches the specified value that comes after it. The value following the first case is 'tomato'. If the value of groceryItem equalled 'tomato', that case‘s console.log() would run.
+- The value of groceryItem is 'papaya', so the third case runs— Papayas are $1.29 is logged to the console.
+- The break keyword tells the computer to exit the block and not execute any more code or check any other cases inside the code block. Note: Without break keywords, the first matching case will run, but so will every subsequent case regardless of whether or not it matches—including the default. This behavior is different from if/else conditional statements that execute only one block of code.
+- At the end of each switch statement, there is a default statement. If none of the cases are true, then the code in the default statement will run.
+
+
+- REVIEW
+![image](https://user-images.githubusercontent.com/74983536/140621878-2d82f7c6-7c87-4b3a-8b75-a18fc2472fb7.png)
+![image](https://user-images.githubusercontent.com/74983536/140621887-7f837072-6ceb-4a16-b220-1de86454c61f.png)
+
+
+## DAY 14
+- Created a magic eight ball game
+- ![image](https://user-images.githubusercontent.com/74983536/140622413-ac6bf33d-0804-4632-8ae3-d9694408830a.png)
+
+
