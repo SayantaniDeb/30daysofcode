@@ -93,4 +93,21 @@ In the example above:
 - Created a magic eight ball game
 - ![image](https://user-images.githubusercontent.com/74983536/140622413-ac6bf33d-0804-4632-8ae3-d9694408830a.png)
 
+## DAY 15
+- STARTED FUNCTIONS
+- CALLING A FUNCTION
+- PARAMETERS AND ARGUMENTS
+- DEFAULT PARAMETERS
+
+## DAY 16
+- RETURN
+- ![image](https://user-images.githubusercontent.com/74983536/140729970-402965e5-d5a0-49ca-921f-2f4e9ab39651.png)
+- ![image](https://user-images.githubusercontent.com/74983536/140730013-89b2b695-9ad2-420d-a7ac-d3a584191992.png)
+- HELPER FUNCTIONS
+- FUNCTION EXPRESSIONS
+- ARROW FUNCTION
+- ![image](https://user-images.githubusercontent.com/74983536/140732174-fd744a1a-338a-4bb6-82bf-1d26fb087fc0.png)
+
+
+
 
